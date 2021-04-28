@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ulti/Git/navit/navit/fib-1.1/fib.c
+fib.h
+-
+fibpriv.h
+-
+limits.h
+-
+stdlib.h
+-
+stdio.h
+-
+
+/home/ulti/Git/navit/navit/fib-1.1/fib.h
+
+/home/ulti/Git/navit/navit/fib-1.1/fibpriv.h
+

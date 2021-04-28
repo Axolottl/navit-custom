@@ -1,0 +1,8 @@
+type=former_destination label="Vehicle Position"
+mg:0x0 0x0
+type=former_destination label="Am Moosfeld"
+mg:0x13c71c 0x5d6bbc
+type=former_destination label="München"
+mg:0x13a3e2 0x5d6d6b
+type=former_itinerary label="München"
+mg:0x13a3e2 0x5d6d6b
